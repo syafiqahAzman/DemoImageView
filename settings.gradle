@@ -1,0 +1,2 @@
+rootProject.name='Deom ImageView'
+include ':app'
